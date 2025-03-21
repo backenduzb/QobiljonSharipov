@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Qobiljon Sharipov
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning python+javascript+html+css
-- 📫 How to reach me Uzbekistan,Samarqand
-- ⚡ Fun fact: I am Streamer
+# 👋 Assalomu alaykum, men Qobiljonman!
 
-<!---
-QobiljonSharipov/QobiljonSharipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full Stack Developer | 🔥 Backendga qiziqaman
+
+## 🛠️ Texnologiyalar
+- 🐍 Python | Django | Aiogram
+- 💻 C++ | JavaScript | TypeScript | React
+- 💾 PostgreSQL | SQLite
+- 🛠️ Cybersecurity | AI | UI/UX
+
+## 🌟 Mening loyihalarim
+- 🎧 **Spotify Clone** - Django + React
+- 🤖 **Contest Bot** - Aiogram va avtomatik bildirishlar
+- 🔥 **DarkCoding.uz** - Backendga oid maxsus loyiha
+
+---
+
+🌟 *Kelajakda Koreya yoki Yaponiyada sayohat qilish orzusi bilan kod yozishda davom etaman!*
+
+📲 Mening loyihalarimni ko'rish uchun [Backend.UZB](https://t.me/BackendUZB) kanaliga qo'shiling!
